@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/srikanth reddy yaddala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="srikanth reddy yaddala" height="30" width="40" /></a>
+<a href="https://fb.com/srikanth reddy yaddala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="srikanthreddyyaddala" height="30" width="40" /></a>
 <a href="https://instagram.com/srikanthreddyyaddala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srikanthreddyyaddala" height="30" width="40" /></a>
 </p>
 
